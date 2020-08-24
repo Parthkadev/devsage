@@ -1,4 +1,4 @@
-function $(selector)
+function $(selector
 {
   const self = {
     element: document.querySelector(selector),
